@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4380a82faa69646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jsNotes_faye@barry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jscriptNotes_fayebarry.md",
+                "file": "jsNotes_faye@barry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jscriptNotes_fayebarry.md",
+                "file": "jsNotes_faye@barry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jscriptNotes_fayebarry.md"
+                "file": "jsNotes_faye@barry.md"
               }
             }
           }
@@ -136,6 +149,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "206e9783873c297e",
-  "lastOpenFiles": []
+  "active": "b4380a82faa69646",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "jscriptNotes_fayebarry.md"
+  ]
 }
