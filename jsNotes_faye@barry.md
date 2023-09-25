@@ -1,4 +1,4 @@
-# javascript笔记 faye@barry
+# javascript笔记 @barry
 
 ## 一、变量
 
